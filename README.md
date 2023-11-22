@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Vivek Dhokane</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right"alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcoder&psig=AOvVaw3HOYRSn5SRrnOoYm-xstDi&ust=1700752584470000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDF8J7z14IDFQAAAAAdAAAAABAJ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekd2001&label=Profile%20views&color=0e75b6&style=flat" alt="vivekd2001" /> </p>
 
 - 🌱 I’m currently learning **Frontend Development , Cloud Computing ,Software developer**
 
-- 👯 Key Strengths: **Proven proficiency in cloud technologies (AWS, Azure, Google Cloud). - Strong foundation in software development, full-stack, and data science. 2. Demonstrated ability to design and implement user-friendly web solutions. - Adept at problem-solving, time management, and effective communication. - Quick learner with a passion for staying updated with emerging technologies.**
+- 👯 Key Strengths:
+1. Proven proficiency in cloud technologies (AWS, Azure, Google Cloud).
+2. Strong foundation in software development, full-stack, and data science.
+3. Demonstrated ability to design and implement user-friendly web solutions.
+4. Adept at problem-solving, time management, and effective communication.
+5. Quick learner with a passion for staying updated with emerging technologies.
 
-- 🎯 Career Highlights: **- Successfully managed and maintained cloud infrastructure at KASNET TECHNOLOGIES. - Developed a responsive banking system during the web development internship at SPARK FOUNDATION. - Completed a comprehensive Data Science internship at LETS GROW MORE, contributing to projects in machine learning and statistical modeling.**
+- 🎯 Career Highlights:
+1. Successfully managed and maintained cloud infrastructure at KASNET TECHNOLOGIES.
+2. Developed a responsive banking system during the web development internship at SPARK FOUNDATION.
+3. Completed a comprehensive Data Science internship at LETS GROW MORE, contributing to projects in machine learning and statistical modeling.**
 
-- 🌐 Technical Vision: **I am dedicated to optimizing and expanding my technical expertise through hands-on experience and continuous learning. I believe in staying at the forefront of technological advancements to bring innovative solutions to the challenges of the digital age. My goal is to contribute to projects that not only align with my current skill set but also push me to new heights, fostering professional growth and excellence.**
+- 🌐 Technical Vision: I am dedicated to optimizing and expanding my technical expertise through hands-on experience and continuous learning. I believe in staying at the forefront of technological advancements to bring innovative solutions to the challenges of the digital age. My goal is to contribute to projects that not only align with my current skill set but also push me to new heights, fostering professional growth and excellence.
 
 - 📫 How to reach me **vivekdhokane2335@gmail.com | 9145384747**
 
-- 📄 I’m currently open for: An Intern or a new job opportunity [https://drive.google.com/file/d/1MjI4oNhfwm_8OWg8dPM0bIHqjPmXUsBJ/view?usp=drivesdk](https://drive.google.com/file/d/1MjI4oNhfwm_8OWg8dPM0bIHqjPmXUsBJ/view?usp=drivesdk)
+- 📄 I’m currently open for: An Intern or a new job opportunity  Resume Link : [https://drive.google.com/file/d/1MjI4oNhfwm_8OWg8dPM0bIHqjPmXUsBJ/view?usp=drivesdk](https://drive.google.com/file/d/1MjI4oNhfwm_8OWg8dPM0bIHqjPmXUsBJ/view?usp=drivesdk)
 
 - 🌟 Why Hire Me: **I bring a potent mix of technical proficiency, analytical skills, and a relentless drive for excellence.**
 
